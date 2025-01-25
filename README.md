@@ -11,6 +11,8 @@ the hacking repository is new, so it won't be so much stuff.
 the only thing you will find their is gandalf stuff wich are for https://gandalf.lakera.ai/
 
 ![rainbow-logo-2](https://github.com/user-attachments/assets/22eebed5-b218-4fa2-96e2-05e699f5245f)
+![image](https://github.com/user-attachments/assets/a466122f-852e-4125-aa6b-890a5a4c9f1a)
+
 
 
 
