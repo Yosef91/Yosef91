@@ -11,14 +11,19 @@ the hacking repository is new, so it won't be so much stuff.
 the only thing you will find their is gandalf stuff wich are for https://gandalf.lakera.ai/
 
 other github sites for coding games are:
+
 https://github.com/russs123/Shooter
+
 https://github.com/techwithtim/Pygame-Tutorials
 
 a site that might help you with coding is:
+
 https://www.w3schools.com/
 
 and some sites for learning hacking are:
+
 https://tryhackme.com/
+
 https://www.hackthebox.com/
 
 
