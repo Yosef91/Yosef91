@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @python3-12
+# - 👋 Hi, I’m Yosef
 - 👀 I’m interested in python
 - 🌱 I’m currently learning pygame
 - 💞️ I’m looking to collaborate on pygame
