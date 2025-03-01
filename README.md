@@ -26,6 +26,7 @@ https://tryhackme.com/
 
 https://www.hackthebox.com/
 
+![image](https://github.com/user-attachments/assets/8feb56ac-5bd4-4132-9160-02d586cb2142)
 
 
 
