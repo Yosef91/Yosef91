@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m Yosef
+# ~ 👋 Hi, I’m Yosef
 
 
 - 👀 I’m interested in python
