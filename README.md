@@ -2,22 +2,15 @@
 
 
 - 👀 I’m interested in python
-- 🌱 I’m currently learning pygame
+- 🌱 I’m currently learning robotics, python, and command line
 - 💞️ I’m looking to collaborate on pygame
 - ⚡ Fun fact: I like python
   
 the python repository is packed with python coding.
 
-the hacking repository is new, so it won't be so much stuff.
-
-the only thing you will find their is gandalf stuff wich are for https://gandalf.lakera.ai/
-
 other github sites for coding games are:
 
 https://github.com/russs123/Shooter
-
-
-
 
 https://github.com/techwithtim/Pygame-Tutorials
 
