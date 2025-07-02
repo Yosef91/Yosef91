@@ -1,5 +1,4 @@
-# - ![image](https://github.com/user-attachments/assets/6ccefc86-ae45-4fd1-8a78-b951f45de6c6)
- Hi, I’m Yosef
+# - Hi, I’m Yosef
 
 
 - 👀 I’m interested in python
