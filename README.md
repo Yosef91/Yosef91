@@ -1,10 +1,4 @@
 # - Hi, I’m Yosef
-
-
-- 👀 I’m interested in python
-- 🌱 I’m currently learning robotics, python, and command line
-- 💞️ I’m looking to collaborate on pygame
-- ⚡ Fun fact: I like python
   
 the python repository is packed with python coding.
 
