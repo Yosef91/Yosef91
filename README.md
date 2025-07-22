@@ -1,22 +1,28 @@
 # - Hi, I’m Yosef
-  
-# the python repository is packed with python coding.
 
-# other github sites for coding games are:
+I am curently creating a stories repository that will have stories on python, and stories on linux.
 
-# https://github.com/russs123/Shooter
+I am also making a hacking repository and a linux repository.
 
-# https://github.com/techwithtim/Pygame-Tutorials
+check back in 2 months and one might be public!
 
-# a site that might help you with coding is:
+the python repository is packed with python coding.
 
-# https://www.w3schools.com/
+other github sites for coding games are:
 
-# and some sites for learning hacking are:
+https://github.com/russs123/Shooter
 
-# https://tryhackme.com/
+https://github.com/techwithtim/Pygame-Tutorials
 
-# https://www.hackthebox.com/
+a site that might help you with coding is:
+
+https://www.w3schools.com/
+
+and some sites for learning hacking are:
+
+https://tryhackme.com/
+
+https://www.hackthebox.com/
 
 
 
