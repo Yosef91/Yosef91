@@ -4,7 +4,9 @@ I am curently creating a stories repository that will have stories on python, an
 
 I am also making a hacking repository and a linux repository.
 
-check back in 2 months and one might be public!
+check back in 2 months and one might be public! ☜(ﾟヮﾟ☜)
+
+
 
 the python repository is packed with python coding.
 
