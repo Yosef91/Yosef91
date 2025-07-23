@@ -1,4 +1,5 @@
-# - Hi, I’m Yosef
+# - Hi, I’m Yosef <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/ac13b13e-2876-494c-8af7-8509b24d0353" />
+
 
 I am curently creating a stories repository that will have stories on python, and stories on linux.
 
