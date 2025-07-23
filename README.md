@@ -1,7 +1,7 @@
 # - Hi, I’m Yosef 
 
 
-I am curently creating a stories repository that will have stories on python, and stories on linux.
+I am curently creating a stories repository that will have stories on python and stories on linux.
 
 I am also making a hacking repository and a linux repository.
 
