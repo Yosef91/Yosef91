@@ -3,11 +3,11 @@
 
 I am curently creating a stories repository that will have stories on python and stories on linux.
 
-I am also making a hacking repository and a linux repository.
+I am also making a hacking repository.
 
 check back in 2 months and one might be public! ☜(ﾟヮﾟ☜)
 
-
+the linux-command-line repository can teach basic linux commands.
 
 the python repository is packed with python coding.
 
