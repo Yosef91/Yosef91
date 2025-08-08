@@ -11,12 +11,6 @@ the linux-command-line repository can teach basic linux commands.
 
 the python repository is packed with python coding.
 
-other github sites for coding games are:
-
-https://github.com/russs123/Shooter
-
-https://github.com/techwithtim/Pygame-Tutorials
-
 a site that might help you with coding is:
 
 https://www.w3schools.com/
