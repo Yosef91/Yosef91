@@ -4,8 +4,6 @@ the linux-command-line repository can teach basic linux commands.
 
 the python repository is packed with python coding.
 
-I am currently making a CROSSY ROAD game that should be on the python repository by november! hope you look foward to seeing it!
-
 a site that might help you with coding is:
 
 https://www.w3schools.com/
